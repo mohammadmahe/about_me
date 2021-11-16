@@ -1,0 +1,12 @@
+body {
+    width: 1140px;
+    margin: auto;
+}
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+}
